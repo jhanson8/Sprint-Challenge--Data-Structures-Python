@@ -40,6 +40,7 @@ for x in names_1:
 for i in names_2:
     if bst.contains(i):
         duplicates.append(i)
+        
 print(len(duplicates))
 
 #doubly
